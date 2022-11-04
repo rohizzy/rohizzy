@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohizzy
 - 👀 I’m interested in getting more into software!!
-- 🌱 I’m currently learning mechatronics, more specifically microcontroller communications
+- 🌱 I’m getting into web development and I'm trying my hand at writing short scripts (mostly in python)
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me rohak.b@gmail.com
-
